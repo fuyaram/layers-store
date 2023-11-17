@@ -1,0 +1,13 @@
+.video-section678 {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    z-index: -4;
+  }
+  
+  .background-video678 {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -4;
+  }
